@@ -121,7 +121,7 @@
     letter-spacing: 0.08em; text-transform: uppercase;
     color: var(--text-tertiary); margin-bottom: 2px;
   }
-  .cp-item-val { font-size: 14px; color:beige;: 1.5; }
+  .cp-item-val { font-size: 14px; color: beige; line-height: 1.5; }
 
   /* 3D Social Icons */
   .cp-social-section {
